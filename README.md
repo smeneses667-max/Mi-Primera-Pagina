@@ -84,3 +84,4 @@ La solución de la parte práctica se encuentra en los archivos:
 - `index.html`
 - `styles.css`
 - `script.js`
+Pagina WEB:file:///C:/Users/SEBASTIAN/Downloads/Mi%20primera%20p%C3%A1gina/index.html
