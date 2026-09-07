@@ -80,8 +80,8 @@ El panel "Console" muestra mensajes generados por `console.log()`, errores y adv
 Muestra todas las solicitudes de red que realiza la página (archivos, imágenes, peticiones a APIs), su tiempo de carga, tamaño y estado. Es importante para analizar el rendimiento de la página y detectar errores en la carga de recursos.
 
 ## Parte Práctica
-La solución de la parte práctica se encuentra en los archivos:
+La solución de la parte práctica que realice se encuentra en los siguientes archivos:
 - `index.html`
 - `styles.css`
 - `script.js`
-Pagina WEB:file:///C:/Users/SEBASTIAN/Downloads/Mi%20primera%20p%C3%A1gina/index.html
+
